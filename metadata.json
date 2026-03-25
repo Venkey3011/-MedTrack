@@ -1,0 +1,5 @@
+{
+  "name": "MedTrack Patient Management",
+  "description": "A comprehensive patient management system with medication reminders, report uploads, and admin dashboards.",
+  "requestFramePermissions": ["notifications"]
+}
