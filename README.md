@@ -30,5 +30,3 @@ MedTrack is a web-based patient management application designed to help healthca
 - MongoDB / MySQL
 
 ---
-
-## 📂 Project Structure
